@@ -14,4 +14,4 @@
 - Previous career includes 3 years under Digital Presence branding projects, 2 of them testing web projects as the actually client.
 ---
 
-[![Test](https://img.shields.io/badge/-Test-?style=for-the-badge&logo=php)]()
+[![Test](https://img.shields.io/badge/style=for-the-badge&logo=php)]()
