@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pamplonapaulo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pamplonapaulo@gmail.com)](mailto:pamplonapaulo@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519996643581)](https://api.whatsapp.com/send?phone=5511993527916)
 [![Whatsapp Badge](https://img.shields.io/badge/-Curriculum-2E4053?style=for-the-badge&labelColor=2E4053&link=https://paulopamplona.com/assets/paulo-pamplona-curriculum.pdf)](https://paulopamplona.com/assets/paulo-pamplona-curriculum.pdf)
-[![Whatsapp Badge](https://img.shields.io/badge/-Website-white?style=for-the-badge&labelColor=white&link=https://paulopamplona.com)](https://paulopamplona.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Website-2E4053?style=for-the-badge&labelColor=2E4053&link=https://paulopamplona.com)](https://paulopamplona.com)
 
 ### Junior Frontend Web Developer
 
