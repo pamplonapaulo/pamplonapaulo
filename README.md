@@ -12,6 +12,3 @@
 - Total of 1 year under 7 professional website projects.
 - Certified in Frontend by San Diego Continuing Education (2016/2017), California, total of 720 hours.
 - Previous career includes 3 years under Digital Presence branding projects, 2 of them testing web projects as the actually client.
----
-
-[![Test](https://img.shields.io/badge/style=for-the-badge&logo=php)]()
