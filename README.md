@@ -10,5 +10,5 @@
 - Lover of Javascript and React.js.
 - Total of 1 year under 7 professional website projects.
 - Certified by San Diego Continuing Education (2016/2017), California.
-- Previous career includes 3 years under Digital Presence branding projects, 2 of them testing web projects as a client.
+- Previous career includes 3 years under Digital Presence branding projects, 2 of them testing web projects as the actually client.
 ---
