@@ -1,6 +1,6 @@
 ## Paulo Pamplona
 
-[![Site](https://img.shields.io/badge/-Website-2E4053?style=for-the-badge&labelColor=2E4053&link=https://paulopamplona.com)](https://paulopamplona.com)
+[![Site](https://img.shields.io/badge/-Visit_Website-2E4053?style=for-the-badge&labelColor=2E4053&link=https://paulopamplona.com)](https://paulopamplona.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopamplona/)](https://www.linkedin.com/in/paulopamplona/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=447471341741)](https://api.whatsapp.com/send?phone=447471341741)
 [![CV](https://img.shields.io/badge/-Download_Curriculum-2E4053?style=for-the-badge&labelColor=2E4053&link=https://paulopamplona.com/assets/paulo-pamplona-curriculum.pdf)](https://paulopamplona.com/assets/paulo-pamplona-curriculum.pdf)
