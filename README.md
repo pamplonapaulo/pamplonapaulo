@@ -8,6 +8,7 @@
 
 ### Junior Frontend Web Developer
 
+- Portuguese officially pre-settled in the UK and based in Newham, London.
 - Lover of Javascript and React.js.
 - Total of 1 year under 7 professional website projects.
 - Certified in Frontend by San Diego Continuing Education (2016/2017), California, total of 720 hours.
