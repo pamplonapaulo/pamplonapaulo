@@ -15,5 +15,5 @@
 - Previous career includes 3 years under Digital Presence branding projects, 2 of them testing web projects as the actually client.
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pamplonapaulo&hide=issues&theme=onedark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=27)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pamplonapaulo&hide=issues&theme=onedark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=28)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamplonapaulo&theme=onedark&langs_count=10&layout=compact)
