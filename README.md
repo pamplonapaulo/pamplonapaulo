@@ -14,5 +14,5 @@
 - Certified in Frontend by San Diego Continuing Education (2016/2017), California, total of 720 hours.
 - Previous career includes 3 years under Digital Presence branding projects, 2 of them testing web projects as the actually client.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pamplonapaulo&hide=issues&theme=onedark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pamplonapaulo&hide=issues&theme=onedark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamplonapaulo&theme=onedark&langs_count=10&layout=compact)
