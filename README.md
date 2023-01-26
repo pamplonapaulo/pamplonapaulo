@@ -4,9 +4,9 @@
 [![CV](https://img.shields.io/badge/-Curriculum-2E4053?style=for-the-badge&labelColor=2E4053&link=https://www.pamplonas.dev/resume)](https://www.pamplonas.dev/resume)
 [![Gmail Badge](https://img.shields.io/badge/-pamplonapaulo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pamplonapaulo@gmail.com)](mailto:pamplonapaulo@gmail.com)
 
-### Junior Frontend Web Developer
-- 43 years old.
-- Currently using Next.js, Strapi, Typescript, GraphQL, Heroku, and Vercel.
+### Frontend Web Developer
+- 44 years old.
+- Currently using Next.js, Strapi, Typescript, and GraphQL.
 - Certified in Frontend by San Diego Continuing Education (2016/2017), California, total of 720 hours.
 - Former journalist.
 
