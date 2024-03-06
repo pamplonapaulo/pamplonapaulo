@@ -9,5 +9,5 @@
 - Certified in Frontend by San Diego Continuing Education (2016/2017), California, total of 720 hours.
 - Former journalist.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pamplonapaulo&hide=issues&theme=onedark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pamplonapaulo&hide=issues&theme=onedark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29&PAT_1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamplonapaulo&theme=onedark&langs_count=10&layout=compact)
