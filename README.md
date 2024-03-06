@@ -8,7 +8,7 @@
 - Currently using Next.js, Strapi, Typescript, and GraphQL.
 - Certificated in Frontend by San Diego Continuing Education (2016/2017), California, total of 720 hours.
 - Former journalist.
-- Certificated in Training in Artificial Intelligence by Unicamp - Universidade Estadual de CampinasUniversidade (2023), São Paulo, total of 40 hours.
+- Certificated in Artificial Intelligence by Unicamp - Universidade Estadual de CampinasUniversidade (2023), São Paulo, total of 40 hours.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamplonapaulo&theme=onedark&langs_count=10&layout=compact)
 
